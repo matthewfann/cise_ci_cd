@@ -25,4 +25,4 @@ class App extends Component{
   }
 }
   
-exportdefaultApp;
+export default App;
