@@ -24,6 +24,7 @@ class App extends Component {
         {/* eslint-disable-next-line react/button-has-type */}
         <button className="increment" onClick={this.increment}>
           Increment count
+          {/* Hi comment */}
         </button>
       </div>
     )
