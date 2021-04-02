@@ -18,7 +18,6 @@ class App extends Component {
 
   render() {
     return (
-      
       <div>
         {/* eslint-disable-next-line react/destructuring-assignment */}
         <p>Count: {this.state.count}</p>
